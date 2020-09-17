@@ -2,7 +2,7 @@
 
 ## Description
 
-Today, bakerys are opened everywhere. But supervising and ensuring the quality of the bakery is quite difficult. So, this app can efficiently support users in running a bakery.
+Today, bakerys are opened everywhere. But supervising and ensuring the quality of the bakery is quite difficult. So, this app is made to efficiently support users in running a bakery.
 
 ## Users
 
