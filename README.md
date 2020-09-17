@@ -2,8 +2,7 @@
 
 ## Description
 
-Today, bakerys are opened everywhere.  
-But supervising and ensuring the quality of the bakery is quite difficult. So, this app can efficiently support users in running a bakery.
+Today, bakerys are opened everywhere. But supervising and ensuring the quality of the bakery is quite difficult. So, this app can efficiently support users in running a bakery.
 
 ## Users
 
@@ -22,13 +21,13 @@ Waiting for update...
 
 ## Plan
 
-Waiting for update
+Waiting for update...
 
 ## Authors
 
 - Leader/Developer: Đinh Trần Văn Minh - 19520715.
-- Developer: Nguyễn Viết Lưu - 19520155.
 - Developer: Nguyễn Thị Phương Thảo - 19520280.
+- Developer: Nguyễn Viết Lưu - 19520155.
 
 ## Feedback
 
