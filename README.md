@@ -9,7 +9,7 @@ Today, bakerys are opened everywhere. But supervising and ensuring the quality o
 - Bakery's Manager.
 - Bakery's Staff.
 
-## Target
+## Targets
 
 - The interface is clear, reasonable and friendly.
 - Easy for users to use.
