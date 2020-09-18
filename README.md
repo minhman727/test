@@ -31,7 +31,7 @@ Waiting for updates...
 
 ## Feedback
 
-Creating feedback in Issues section, each of your feedback will help us to improve the application better. Thanks for help!
+Creating feedback in Issues section, each of your feedback will help us to improve the application better. Thank for help!
 
 ## Ackownledgments
-Thank Mr. Nguyen Tan Toan, our teacher, who gave us useful guidance and advice that help us to finish the project.
+Thank Mr. Nguyen Tan Toan, our teacher, who gave us useful guidance and advice that help us to finish the project!
