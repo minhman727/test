@@ -6,8 +6,8 @@ Today, bakerys are opened everywhere. But supervising and ensuring the quality o
 
 ## Users
 
-- Bakery's Manager.
-- Bakery's Staff.
+- Bakery's managers.
+- Bakery's staffs.
 
 ## Targets
 
@@ -17,11 +17,11 @@ Today, bakerys are opened everywhere. But supervising and ensuring the quality o
 
 ## Features
 
-Waiting for update...
+Waiting for updates...
 
 ## Plan
 
-Waiting for update...
+Waiting for updates...
 
 ## Authors
 
@@ -32,3 +32,6 @@ Waiting for update...
 ## Feedback
 
 Creating feedback in Issues section, each of your feedback will help us to improve the application better. Thanks for help!
+
+## Ackownledgments
+Thank Mr. Nguyen Tan Toan, our teacher, who gave us useful guidance and advice that help us to finish the project.
